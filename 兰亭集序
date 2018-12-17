@@ -1,0 +1,84 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>无标题文档</title>
+<style type="text/css">
+#heading1 {
+	font-size: 36px;
+	font-style: italic;
+	line-height: normal;
+	font-weight: 100;
+	color: #099;
+	text-decoration: underline;
+	background-color: #FC3;
+}
+#heading2 {
+	font-size: 24px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: 400;
+	color: #099;
+	background-color: #CFF;
+}
+#heading3 {
+	font-size: 18px;
+	color: #960;
+	background-color: #FFC;
+}
+#heading4 {
+	font-size: 18px;
+	color: #CC3366;
+	background-color: #CFF;
+}
+#heading4 span {
+	color: #06F;
+}
+body {
+	background-color: #333;
+}
+</style></head>
+
+<body>
+<h1 id="heading1"><a href="https://baike.baidu.com/item/%E5%85%B0%E4%BA%AD%E9%9B%86%E5%BA%8F/199614?fr=aladdin">兰亭集序</a></h1>
+<ul>
+  <li>
+    <h2 id="heading2"><a href="https://baike.baidu.com/item/%E7%8E%8B%E7%BE%B2%E4%B9%8B/127554">王羲之</a></h2>
+  </li>
+  <li class="heading3">
+    <p id="heading3">是日也，天朗气清，惠风和畅。</p>
+  </li>
+  <li>
+    <p id="heading4">仰观宇宙之大，<span>俯察品类之盛</span>，所以游目骋怀，足以极视听之娱，信可乐也。</p>
+  </li>
+  <li>
+    <p id="heading3">夫人之相与，俯仰一世。或取诸怀抱，悟言一室之内；</p>
+  </li>
+  <li>
+    <p id="heading4">或因寄所托，放浪形骸之外。</p>
+  </li>
+  <li>
+    <p id="heading3">虽趣舍万殊，静躁不同，当其欣于所遇，暂得于己，快然自足，不知老之将至；</p>
+  </li>
+  <li>
+    <p id="heading4">及其所之既倦，情随事迁，感慨系之矣。</p>
+  </li>
+  <li>
+    <p id="heading3">向之所欣，俯仰之间，已为陈迹，犹不能不以之兴怀，况修短随化，终期于尽！</p>
+  </li>
+  <li>
+    <p id="heading4"
+   >古人云：&ldquo;死生亦大矣。&rdquo;岂不痛哉！</p>
+  </li>
+  <li id="heading3">每览昔人兴感之由，若合一契，未尝不临文嗟悼，不能喻之于怀。固知一死生为虚诞，齐彭殇为妄作。
+    <p id="heading3">后之视今，亦犹今之视昔，悲夫！</p>
+  </li>
+  <li>
+    <p id="heading4" >故列叙时人，录其所述，虽世殊事异，所以兴怀，其致一也。</p>
+  </li>
+  <li>
+    <p id="heading3">后之览者，亦将有感于斯文。</p>
+  </li>
+</ul>
+</body>
+</html>
